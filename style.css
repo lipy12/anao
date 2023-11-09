@@ -1,0 +1,41 @@
+@import url(<style>
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+</style>);
+
+* {
+    margin: 0;
+}
+
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+h1 {
+    font-size: 30px;
+}
+
+/* Estilização do cabeçalho da página */
+.header {
+    background: rgb(6, 135, 255);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilização dos links da página */
+a {
+    color: white;
+    text-decoration: none;
+}
+.content{
+    border: 1px solid red;
+    /*paddin:  20px;*/
+    margin: 20px;
+}
+P{ /*paddin:  20px;*/}
+span{color:rgb(255, 0, 0)
+
+}
+.positivo{
+ color:rgb(0, 255, 0)
+}
